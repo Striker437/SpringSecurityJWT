@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class SpringBootHelloWorldApplication {
 	
 	
-
+//COMMENT
 	
 	  @Bean public WebMvcConfigurer corsConfigurer() { return new
 	  WebMvcConfigurer() { public void addCorsMapping(CorsRegistry corsRegistry) {
